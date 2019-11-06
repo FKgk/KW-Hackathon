@@ -24,13 +24,12 @@
   + MySQL
   + Open API (날씨)
   + Google Dialogflow
-  + goorm IDE
 
 <br>
 
 + **개발 환경**
-  + macOS Mojave / Windows 10
-  + Visual Studio Code
+  + macOS High Sierra / Windows 10
+  + goorm IDE
 
 <br>
 
